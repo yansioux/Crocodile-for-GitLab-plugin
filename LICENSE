@@ -1,0 +1,51 @@
+END USER LICENSE AGREEMENT
+
+Updated May 9, 2025.
+
+"GITLAB" is a trademark of GitLab Inc. in the United States and other countries and regions.
+
+"PLUGIN" means computer software used as, but not limited to, an extension to the functionality of,
+but not limited to, any compatible development environment (IDE).
+
+"YOU" means any Organization or natural person using a plugin in accordance with these terms,
+where "Organization" includes any corporation, company, partnership, association, or other entity
+that controls, is controlled by, or is under common control with you. For the purposes of this definition,
+"control" means (i) the power, directly or indirectly, to direct or manage such entity,
+whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares
+or beneficial ownership of such entity.
+
+“LICENSEE” means the plugin user(s) having accepted the Agreement.
+
+“USE” means the application or employment of the plugin for any purpose.
+
+"AUTHOR" means the individual Yan Pak, email address: YanSioux@gmail.com, born September 12, 1980,
+who represents that he is the true and sole developer of the plugin.
+
+“DISTRIBUTION” means conveyance or transfer of the plugin, regardless of means, to another.
+
+"SOURCE CODE" means, without limitation, the software source code, source documentation, and configuration files.
+
+
+THIS PLUGIN IS NOT AFFILIATED, ENDORSED, SPONSORED, OR APPROVED WITH OR BY GITLAB INC.
+
+THIS AGREEMENT WILL BE CONSIDERED AS ACCEPTED BY END USER(S) IF THEY (i) CHECKED BOX ON THE AGREEMENT PROPOSAL PAGE,
+OR BUT NOT LATER THAN (ii) AFTER ACQUIRING OR STARTING TO USE THE PLUGIN.
+
+THE SOFTWARE IS PROVIDED “AS IS” AND THE AUTHOR DISCLAIMS ALL
+WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES
+OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE
+FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY
+DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN
+AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT
+OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+LICENSEE IS GRANTED PERMISSION ONLY TO USE THIS PLUGIN.
+
+IT IS PROHIBITED TO MODIFY THE PLUGIN (PURCHASED OR OTHERWISE OBTAINED),
+THEREBY CHANGING ITS ORIGINAL PURPOSE OR COPYRIGHT FEATURES.
+
+YOU MAY NOT DISTRIBUTE THE SOURCE CODE OF THE PLUGIN OR THE PLUGIN ITSELF WITH OR WITHOUT THIS LICENSE,
+EXCEPT AS SPECIFICALLY STATED IN A SEPARATE AGREEMENT WITH THE AUTHOR,
+AS WELL AS TO INDICATE AS THE AUTHOR ANY PERSON OR ORGANIZATION OTHER THAN ITS TRUE AUTHOR.
+
+-- end of text of End User License Agreement --
