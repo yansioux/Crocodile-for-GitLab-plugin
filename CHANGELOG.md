@@ -1,0 +1,70 @@
+<!-- Keep a Changelog guide -> https://keepachangelog.com -->
+
+# Crocodile for GitLab Changelog
+
+## [1.0.10] - 26 May 2025
+### Added
+- Automatic hiding of sensitive data for variable values
+### Fixed
+- Appearance and text length of help balloon for variable search field
+- Variable table flickering after update
+
+## [1.0.9] - 14 May 2025
+### Fixed
+- Variable's table cell rendering
+- EnvScope's chooser cell rendering
+- Variable collection's table cell rendering
+- Name of Delete environment action in main menu
+### Changed
+- Order of actions in main menu list
+- Notification balloon showing time
+
+## [1.0.8] - 12 May 2025
+### Added
+- Bracket autocomplete for search field
+- Logic for excluding github.com server
+
+## [1.0.7] - 11 May 2025
+### Added
+- IBM Plex Mono font for variable value field in Create / Edit variable dialog
+### Fixed
+- Create / Edit variable dialog's height insufficient due to arbitrary monospace font
+
+## [1.0.6] - 09 May 2025
+### Fixed
+- Message for dialog
+
+## [1.0.5] - 09 May 2025
+### Added
+- Extended search for variables
+### Fixed
+- Layout of environment scope menu items for the right-click popup window
+
+## [1.0.4] - 08 May 2025
+### Fixed
+- Layout of environment scope menu items for the right-click popup window
+
+## [1.0.3] - 08 May 2025
+### Added
+- Correct order of environments in chooser
+### Fixed
+- Recursive call to create variable when exception occurs
+
+## [1.0.2] - 08 May 2025
+### Added
+- Link to help on configuring IDE password storage in some dialogs
+
+## [1.0.1] - 08 May 2025
+### Fixed
+- Error updating variables after changing project
+### Added
+- Plugin stability with multiple open projects
+
+## [1.0.0]
+### Added
+- Core service functions for the GitLab Rest API
+- Variable managing logic
+- Environments managing logic
+- User interface elements (dialogs, ToolWindow, Balloons and so on)
+- Plugin-specific UI elements (EnvScope's labels, variable description tooltips and so on)
+- License
