@@ -1,9 +1,9 @@
 # Crocodile for GitLab plugin
+## CI/CD variable manager for GitLab hosted projects
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/27303.svg)](https://plugins.jetbrains.com/plugin/27303)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/27303.svg)](https://plugins.jetbrains.com/plugin/27303)
 
-## CI/CD variable manager for GitLab hosted projects
 
 ### Features
 - Create, edit and delete CI/CD variables
