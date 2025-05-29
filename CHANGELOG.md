@@ -2,6 +2,10 @@
 
 # Crocodile for GitLab Changelog
 
+## [1.0.11] - 29 May 2025
+### Added
+- Compatibility with upcoming IDEA 252.* release
+
 ## [1.0.10] - 26 May 2025
 ### Added
 - Automatic hiding of sensitive data for variable values
