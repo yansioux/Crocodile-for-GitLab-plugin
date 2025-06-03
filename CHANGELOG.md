@@ -4,6 +4,7 @@
 
 ## [1.0.12] - 3 June 2025
 ### Fixed
+- Core algorithm for GitLab host & Project id definition
 - Color of selected items in variable table
 - Size for 'Create variable' & 'Add variable from collection' buttons
 ### Added
