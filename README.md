@@ -26,7 +26,7 @@ Export variables to:
 - Access tokens, saved variables, search history and other sensitive user data do not transmitted to others
 - The plugin communicates only with the GitLab API
 - Sensitive data is securely stored in the IDE credential store on the local machine
-- Any sensitive data is not displayed on the screen until the variables containing that data are selected or in edit mode.
+- Any sensitive data is not displayed on the screen until the variables containing that data are selected or in edit mode
 
 
 ## An essential solution for developers, DevOps guys and software engineers everywhere!

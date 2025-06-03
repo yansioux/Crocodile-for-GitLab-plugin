@@ -2,6 +2,16 @@
 
 # Crocodile for GitLab Changelog
 
+## [1.0.12] - 3 June 2025
+### Fixed
+- Color of selected items in variable table
+- Size for 'Create variable' & 'Add variable from collection' buttons
+### Added
+- Automatic hiding of sensitive data for the 'Collection of variables' window
+### Changed
+- Icon for 'Add variables to collection' button
+- UI for variable's right click menu
+
 ## [1.0.11] - 29 May 2025
 ### Added
 - Compatibility with upcoming IDEA 252.* release
