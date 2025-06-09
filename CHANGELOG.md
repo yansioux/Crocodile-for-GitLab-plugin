@@ -2,7 +2,7 @@
 
 # Crocodile for GitLab Changelog
 
-## [1.1.0] - 8 June 2025
+## [1.1.0] - 10 June 2025
 ### Added
 - NEW FEATURE: Import variables from file!!!
 ### Fixed
