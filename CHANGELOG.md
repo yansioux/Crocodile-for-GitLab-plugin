@@ -2,6 +2,14 @@
 
 # Crocodile for GitLab Changelog
 
+## [1.1.0] - 8 June 2025
+### Added
+- NEW FEATURE: Import variables from file!!!
+### Fixed
+- Refreshing variables by right click menu 'Reload'
+- Selecting a Null environment after the environment creation->deletion procedure
+
+
 ## [1.0.12] - 3 June 2025
 ### Fixed
 - Core algorithm for GitLab host & Project id definition
