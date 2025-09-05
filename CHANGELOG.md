@@ -2,6 +2,14 @@
 
 # Crocodile for GitLab Changelog
 
+## [2.0] - 05 September 2025
+### Added
+- PIPELINES!!! (That's why version 2 is here!)
+- Mode switch button (V <--> P)
+- More improvements and stability
+### Fixed
+- bugs of the previous 1 version
+
 ## [1.1.0] - 10 June 2025
 ### Added
 - NEW FEATURE: Import variables from file!!!

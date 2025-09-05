@@ -1,36 +1,72 @@
-# Crocodile for GitLab plugin
-CI/CD variable manager for GitLab hosted projects
+# Crocodile for GitLab (plugin)
+CI/CD manager for GitLab hosted projects
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/27303.svg)](https://plugins.jetbrains.com/plugin/27303)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/27303.svg)](https://plugins.jetbrains.com/plugin/27303)
 
 
-### Features
-- Create, edit and delete CI/CD variables
-- Copy and move variables between environments
-- Search variables
-- Create environments
-- Delete environments
-
-### What's more, you can:
-- Save variables in a private store of IDE!
-
-- Import them into other GitLab based projects!
-
-### And more awesome features!
+<b>Features</b>
+<br/>
+<ul>
+  <li><b>Create, edit and delete CI/CD variables</b> ⭐️</li>
+  <li><b>Copy and move variables between environments</b> ⭐️</li>
+  <li><b>Search variables in many environments at once</b> ⭐️</li>
+  <li><b>Create environments</b> ⭐️</li>
+  <li><b>Delete environments</b> ⭐️</li>
+  <li><b>Manage pipelines (rename, delete, retry)</b> ⭐️</li>
+  <li><b>Start, stop, retry jobs in a pipeline and view their logs</b> ⭐️</li>
+  <li><b>Observe changes to variables outside of a session in real time</b> ⭐️</li>
+</ul>
+<h2>What's more, you can:</h2>
+<ul>
+  <li><u>Save</u> variables in a private store of IDE!</li>
+  <li><u>Import</u> them into other GitLab based projects!</li>
+  <li><u>Import</u> variables into environment from .env files!</li>
+  <li><u>Create tags</u> to trigger pipeline creation️</li>
+</ul>
+<h2>And more awesome features!</h2>
 Export variables to:
-- Markdown table structure for inserting into project documentation!
-- .env files for customizing project run configurations!
+<ul>
+  <li><u>.env</u> files for customizing project run configurations!</li>
+  <li><u>Markdown</u> table structure for inserting into project documentation!</li>
+</ul>
+<h2>Security</h2>
+<ul>
+  <li>Access tokens, saved variables, and other sensitive user data do not transmitted to others</li>
+  <li>The plugin communicates only with the GitLab API</li>
+  <li>Sensitive data is securely stored in the IDE credential store on the local machine</li>
+  <li>Any sensitive data is not displayed on the screen until the variables containing that data are selected or in edit mode</li>
+</ul>
 
-### Security
-- Access tokens, saved variables, search history and other sensitive user data do not transmitted to others
-- The plugin communicates only with the GitLab API
-- Sensitive data is securely stored in the IDE credential store on the local machine
-- Any sensitive data is not displayed on the screen until the variables containing that data are selected or in edit mode
+<h3>
+No more switching between the IDE and the web version of GitLab!<br/>
+Work in the IDE with full convenience and control! 🥳
+<br/><br/>
+An essential solution for developers, DevOps guys and software engineers everywhere!
+</h3>
+<b>Managing CI/CD has never been so powerful and easy! Easy as CrocoDIle!
+Why crocodile? Because its name contains the symbols <i>CICD</i></b>
+
+## Installation
+
+- Using the IDE built-in plugin system:
+
+  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "Crocodile for GitLab"</kbd> >
+  <kbd>Install</kbd>
+
+- Using JetBrains Marketplace:
+
+  Go to [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID) and install it by clicking the <kbd>Install to ...</kbd> button in case your IDE is running.
+
+  You can also download the [latest release](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID/versions) from JetBrains Marketplace and install it manually using
+  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
+
+- Manually:
+
+  Download the [latest release](https://github.com/yansioux/Crocodile for GitLab/releases/latest) and install it manually using
+  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
 
-## An essential solution for developers, DevOps guys and software engineers everywhere!
-Managing project CI/CD variables has never been so powerful and easy! Easy as crocodile!
 
 ![Crocodile for GitLab logo](https://github.com/yansioux/Crocodile-for-GitLab-plugin/blob/main/Misc/Logo/200x200/pluginIcon.svg?raw=true)
 
