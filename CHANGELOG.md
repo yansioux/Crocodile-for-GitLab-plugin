@@ -2,6 +2,12 @@
 
 # Crocodile for GitLab Changelog
 
+## [2.1] - 10 September 2025
+### Added
+- Color correction for the font of Commit's dialog
+- Anti-aliasing hint for the graphic of Stage component
+- The size of the Stage panel has increased
+
 ## [2.0] - 05 September 2025
 ### Added
 - PIPELINES!!! (That's why version 2 is here!)
