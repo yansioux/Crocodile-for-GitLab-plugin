@@ -1,21 +1,16 @@
 # Crocodile for GitLab (plugin)
-CI/CD manager for GitLab hosted projects
-
+<h2>CI/CD tools for GitLab hosted projects</h2>
 [![Version](https://img.shields.io/jetbrains/plugin/v/27303.svg)](https://plugins.jetbrains.com/plugin/27303)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/27303.svg)](https://plugins.jetbrains.com/plugin/27303)
-
-
-<b>Features</b>
-<br/>
+<h2>Features</h2>
 <ul>
-  <li><b>Create, edit and delete CI/CD variables</b> ⭐️</li>
-  <li><b>Copy and move variables between environments</b> ⭐️</li>
-  <li><b>Search variables in many environments at once</b> ⭐️</li>
-  <li><b>Create environments</b> ⭐️</li>
-  <li><b>Delete environments</b> ⭐️</li>
-  <li><b>Manage pipelines (rename, delete, retry)</b> ⭐️</li>
-  <li><b>Start, stop, retry jobs in a pipeline and view their logs</b> ⭐️</li>
-  <li><b>Observe changes to variables outside of a session in real time</b> ⭐️</li>
+  <li>Create, edit and delete CI/CD variables ⭐️</li>
+  <li>Copy and move variables between environments ⭐️</li>
+  <li>Search variables in many environments at once ⭐️</li>
+  <li>Create and delete environments ⭐️</li>
+  <li>Manage CI/CD pipelines (rename, delete, retry) ⭐️</li>
+  <li>Start, stop, retry jobs in a pipeline and view their logs ⭐️</li>
+  <li>Observe changes to variables outside of a session in real time ⭐️</li>
 </ul>
 <h2>What's more, you can:</h2>
 <ul>

@@ -2,6 +2,15 @@
 
 # Crocodile for GitLab Changelog
 
+## [2.2] - 22 September 2025
+### Added
+- Ability to create branches (all in one button Create tag/branch)
+- Commit information tooltip for Create tag/branch dialog
+- Ability to use the name of an existing tag/branch with automatic version incrementing 
+
+### Fixed
+- "Container Project@impl services was disposed" error when switching projects by closing one and opening another
+
 ## [2.1] - 10 September 2025
 ### Added
 - Color correction for the font of Commit's dialog
