@@ -1,23 +1,23 @@
 # Crocodile for GitLab (plugin)
-<h2>CI/CD tools for GitLab hosted projects</h2>
+<h2>A free manager of CI/CD variables, pipelines, branches, and tags for projects hosted on GitLab servers (GitLab maintained by your Organization (GitLab Self-Managed), GitLab.com, and GitLab Dedicated)</h2>
 [![Version](https://img.shields.io/jetbrains/plugin/v/27303.svg)](https://plugins.jetbrains.com/plugin/27303)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/27303.svg)](https://plugins.jetbrains.com/plugin/27303)
 <h2>Features</h2>
 <ul>
-  <li>Create, edit and delete CI/CD variables ⭐️</li>
-  <li>Copy and move variables between environments ⭐️</li>
-  <li>Search variables in many environments at once ⭐️</li>
-  <li>Create and delete environments ⭐️</li>
-  <li>Manage CI/CD pipelines (rename, delete, retry) ⭐️</li>
-  <li>Start, stop, retry jobs in a pipeline and view their logs ⭐️</li>
-  <li>Observe changes to variables outside of a session in real time ⭐️</li>
+  <li>Create, edit, rename and delete CI/CD variables</li>
+  <li>Copy and move variables between environments</li>
+  <li>Find usage of variables in a project</li>
+  <li>Create and delete environments</li>
+  <li>Manage CI/CD pipelines (retry, rename and delete)</li>
+  <li>Start, stop, retry jobs in a pipeline and view their logs</li>
+  <li>See Git Log for branches/tags in a pipeline</li>
 </ul>
 <h2>What's more, you can:</h2>
 <ul>
-  <li><u>Save</u> variables in a private store of IDE!</li>
-  <li><u>Import</u> them into other GitLab based projects!</li>
-  <li><u>Import</u> variables into environment from .env files!</li>
-  <li><u>Create tags</u> to trigger pipeline creation️</li>
+  <li><b>Save</b> variables in a private store of IDE!</li>
+  <li><b>Import</b> them into other GitLab based projects!</li>
+  <li><b>Import</b> variables into environment from .env files!</li>
+  <li><b>Create tags</b> to trigger pipeline creation️</li>
 </ul>
 <h2>And more awesome features!</h2>
 Export variables to:
@@ -32,11 +32,8 @@ Export variables to:
   <li>Sensitive data is securely stored in the IDE credential store on the local machine</li>
   <li>Any sensitive data is not displayed on the screen until the variables containing that data are selected or in edit mode</li>
 </ul>
-
+<br/>
 <h3>
-No more switching between the IDE and the web version of GitLab!<br/>
-Work in the IDE with full convenience and control! 🥳
-<br/><br/>
 An essential solution for developers, DevOps guys and software engineers everywhere!
 </h3>
 <b>Managing CI/CD has never been so powerful and easy! Easy as CrocoDIle!

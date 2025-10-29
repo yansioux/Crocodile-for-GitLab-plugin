@@ -2,6 +2,17 @@
 
 # Crocodile for GitLab Changelog
 
+## [2.3] - 23 October 2025
+### Added
+- Find a env variable usage among project files
+- The value field in the "Create or Edit variable" dialog can now use search/replace means and shows the line number
+- Clicking on a row in a "Pipeline commits" and "Create Tag or Branch" dialogs opens the Git Log
+- Some dialog boxes are now resizable and no modal
+
+### Fixed
+- UI appearance for the main toolWindow panel
+- Some UI issues, especially about scaling mode
+
 ## [2.2] - 22 September 2025
 ### Added
 - Ability to create branches (all in one button Create tag/branch)
