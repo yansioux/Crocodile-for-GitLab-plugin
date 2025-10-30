@@ -1,7 +1,7 @@
 # Crocodile for GitLab (plugin)
 <h2>A free manager of CI/CD variables, pipelines, branches, and tags for projects hosted on GitLab servers (GitLab maintained by your Organization (GitLab Self-Managed), GitLab.com, and GitLab Dedicated)</h2>
-[![Version][plugin-version-banner]][plugin-page-link]
-[![Downloads][plugin-downloads-banner]][plugin-page-link]
+[![Version][plugin-version-banner]](https://plugins.jetbrains.com/plugin/27303-crocodile-for-gitlab)
+[![Downloads][plugin-downloads-banner]](https://plugins.jetbrains.com/plugin/27303-crocodile-for-gitlab)
 <h2>Features</h2>
 <ul>
   <li>Create, edit, rename and delete CI/CD variables</li>
@@ -64,4 +64,3 @@ Why crocodile? Because its name contains the symbols <i>CICD</i></b>
 
 [plugin-version-banner]: https://img.shields.io/jetbrains/plugin/v/27303.svg
 [plugin-downloads-banner]: https://img.shields.io/jetbrains/plugin/d/27303.svg
-[plugin-page-link]: https://plugins.jetbrains.com/plugin/27303-crocodile-for-gitlab
