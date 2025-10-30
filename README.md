@@ -55,7 +55,7 @@ Why crocodile? Because its name contains the symbols <i>CICD</i></b>
 
 - Manually:
 
-  Download the [latest release](https://github.com/yansioux/Crocodile for GitLab/releases/latest) and install it manually using
+  Download the [latest release](https://github.com/yansioux/Crocodile-for-GitLab-plugin/tree/main/Releases/stable/2.3) and install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
 
