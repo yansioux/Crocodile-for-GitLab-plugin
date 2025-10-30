@@ -2,8 +2,8 @@
 
 A free manager of CI/CD variables, pipelines, branches, and tags for projects hosted on GitLab servers (GitLab maintained by your Organization (GitLab Self-Managed), GitLab.com, and GitLab Dedicated)
 
-![Version](https://img.shields.io/jetbrains/plugin/v/27303.svg)(https://plugins.jetbrains.com/plugin/27303-crocodile-for-gitlab/versions)
-![Downloads](https://img.shields.io/jetbrains/plugin/d/27303.svg)(https://plugins.jetbrains.com/plugin/27303-crocodile-for-gitlab)
+[![Version](https://img.shields.io/jetbrains/plugin/v/27303.svg)](https://plugins.jetbrains.com/plugin/27303-crocodile-for-gitlab/versions)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/27303.svg)](https://plugins.jetbrains.com/plugin/27303-crocodile-for-gitlab)
 
 <h2>Features</h2>
 <ul>
