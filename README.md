@@ -1,7 +1,7 @@
 # Crocodile for GitLab (plugin)
 <h2>A free manager of CI/CD variables, pipelines, branches, and tags for projects hosted on GitLab servers (GitLab maintained by your Organization (GitLab Self-Managed), GitLab.com, and GitLab Dedicated)</h2>
-[![Version](https://img.shields.io/jetbrains/plugin/v/27303.svg)](https://plugins.jetbrains.com/plugin/27303)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/27303.svg)](https://plugins.jetbrains.com/plugin/27303)
+[![Version](https://img.shields.io/jetbrains/plugin/v/27303.svg)](https://plugins.jetbrains.com/plugin/27303)]
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/27303.svg)](https://plugins.jetbrains.com/plugin/27303)]
 <h2>Features</h2>
 <ul>
   <li>Create, edit, rename and delete CI/CD variables</li>
@@ -48,9 +48,9 @@ Why crocodile? Because its name contains the symbols <i>CICD</i></b>
 
 - Using JetBrains Marketplace:
 
-  Go to [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID) and install it by clicking the <kbd>Install to ...</kbd> button in case your IDE is running.
+  Go to [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/27303) and install it by clicking the <kbd>Install to ...</kbd> button in case your IDE is running.
 
-  You can also download the [latest release](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID/versions) from JetBrains Marketplace and install it manually using
+  You can also download the [latest release](https://plugins.jetbrains.com/plugin/27303/versions) from JetBrains Marketplace and install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
 - Manually:
