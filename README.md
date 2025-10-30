@@ -1,7 +1,8 @@
 # Crocodile for GitLab (plugin)
 <h2>A free manager of CI/CD variables, pipelines, branches, and tags for projects hosted on GitLab servers (GitLab maintained by your Organization (GitLab Self-Managed), GitLab.com, and GitLab Dedicated)</h2>
-[![Version](https://img.shields.io/jetbrains/plugin/v/27303.svg)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/27303.svg)
+
+![Version](https://img.shields.io/jetbrains/plugin/v/27303.svg)
+![Downloads](https://img.shields.io/jetbrains/plugin/d/27303.svg)
 <h2>Features</h2>
 <ul>
   <li>Create, edit, rename and delete CI/CD variables</li>
