@@ -2,6 +2,15 @@
 
 # Crocodile for GitLab Changelog
 
+## [2.4] - 27 January 2026
+### Fixed
+- Tags and Branches order in Create Tag/Branch dialog
+- Issue with unsuccessful download tags
+- Folder node_modules excluded from search path for action Find variable usage
+- Logs for pipeline jobs are read fastly and completely
+- Some language bundle entities
+- Other minor bugs
+
 ## [2.3] - 23 October 2025
 ### Added
 - Find a env variable usage among project files
