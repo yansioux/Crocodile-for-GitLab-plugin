@@ -3,12 +3,14 @@
 # Crocodile for GitLab Changelog
 
 ## [2.4] - 27 January 2026
+### Added
+- Support for platform versions up to 253.*
+
 ### Fixed
-- Supported build number range expanded to 253.*
 - Tags and Branches order in Create Tag/Branch dialog
 - Issue with unsuccessful download tags
 - Folder node_modules excluded from search path for action Find variable usage
-- Logs for pipeline jobs are read fastly and completely
+- Logs for pipeline jobs are read fast and completely
 - Some language bundle entities
 - Other minor bugs
 
