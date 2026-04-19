@@ -5,42 +5,39 @@ An exceptionally powerful, free manager of CI/CD variables, pipelines, jobs, and
 [![Version](https://img.shields.io/jetbrains/plugin/v/27303.svg)](https://plugins.jetbrains.com/plugin/27303-crocodile-for-gitlab/versions)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/27303.svg)](https://plugins.jetbrains.com/plugin/27303-crocodile-for-gitlab)
 
-<h2>Features</h2>
+<h3>Features</h3>
 <ul>
-  <li>Create, edit, rename and delete CI/CD variables</li>
+  <li>Create and edit CI/CD variables</li>
+  <li>Create and delete environments</li>
   <li>Copy and move variables between environments</li>
   <li>Find usage of variables in a project</li>
-  <li>Create and delete environments</li>
-  <li>Manage CI/CD pipelines (retry, rename and delete)</li>
-  <li>Start, stop, retry jobs in a pipeline and view their logs</li>
+  <li>Manage CI/CD pipelines</li>
+  <li>Start, stop, retry jobs in a pipeline and view job's log</li>
   <li>See Git Log for branches/tags in a pipeline</li>
 </ul>
-<h2>What's more, you can:</h2>
+<h3>What's more, you can:</h3>
 <ul>
-  <li><b>Save</b> variables in a private store of IDE!</li>
-  <li><b>Import</b> them into other GitLab based projects!</li>
-  <li><b>Import</b> variables into environment from .env files!</li>
+  <li><b>Save variables</b> in a private store of IDE!</li>
+  <li><b>Import variables</b> into other GitLab based projects!</li>
+  <li><b>Import variables</b> into environment from .env files!</li>
   <li><b>Create tags</b> to trigger pipeline creation️</li>
 </ul>
-<h2>And more awesome features!</h2>
+<h3>And more awesome features!</h3>
 Export variables to:
 <ul>
-  <li><u>.env</u> files for customizing project run configurations!</li>
-  <li><u>Markdown</u> table structure for inserting into project documentation!</li>
+  <li><b>.env files</b> for customizing project run configurations!</li>
+  <li><b>Markdown table</b> structure for inserting into project documentation!</li>
 </ul>
-<h2>Security</h2>
+<h3>Security</h3>
 <ul>
   <li>Access tokens, saved variables, and other sensitive user data do not transmitted to others</li>
   <li>The plugin communicates only with the GitLab API</li>
   <li>Sensitive data is securely stored in the IDE credential store on the local machine</li>
   <li>Any sensitive data is not displayed on the screen until the variables containing that data are selected or in edit mode</li>
 </ul>
-<br/>
 <h3>
 An essential solution for developers, DevOps guys and software engineers everywhere!
 </h3>
-<b>Managing CI/CD has never been so powerful and easy! Easy as CrocoDIle!
-Why crocodile? Because its name contains the symbols <i>CICD</i></b>
 
 ## Installation
 

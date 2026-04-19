@@ -2,6 +2,12 @@
 
 # Crocodile for GitLab Changelog
 
+## [2.5] - 19 April 2026
+### Added
+- Support for platform versions up to 261.*
+- Improved handling of the right-click action in the Create Tag/Branch dialog
+- .gitlab-ci.yml files added to search paths for Find variable usage
+
 ## [2.4] - 27 January 2026
 ### Added
 - Support for platform versions up to 253.*
