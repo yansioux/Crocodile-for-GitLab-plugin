@@ -2,6 +2,16 @@
 
 # Crocodile for GitLab Changelog
 
+## [2.6] - 7 May 2026
+### Added
+- Create a tag/branch from a pipeline - context menu item
+- Import only selected or all variables at once from a .env file
+- Significant user interface improvements
+- Optimized calls for pipeline mode
+
+### Fixed
+- Name validation for Rename tag/branch action
+
 ## [2.5] - 19 April 2026
 ### Added
 - Support for platform versions up to 261.*
