@@ -2,8 +2,9 @@
 
 # Crocodile for GitLab Changelog
 
-## [2.6] - 7 May 2026
+## [2.6] - 12 May 2026
 ### Added
+- Full support for Undo/Redo of any user actions
 - Create a tag/branch from a pipeline - context menu item
 - Import only selected or all variables at once from a .env file
 - Significant user interface improvements
