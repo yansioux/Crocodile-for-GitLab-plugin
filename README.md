@@ -14,6 +14,7 @@ An exceptionally powerful, free manager of CI/CD variables, pipelines, jobs, and
   <li>Manage CI/CD pipelines</li>
   <li>Start, stop, retry jobs in a pipeline and view job's log</li>
   <li>See Git Log for branches/tags in a pipeline</li>
+  <li>Undo/redo all user actions related to variables &amp; environments</li>
 </ul>
 <h3>What's more, you can:</h3>
 <ul>
