@@ -13,6 +13,7 @@ An exceptionally powerful, free manager of CI/CD variables, pipelines, jobs, and
   <li>Find usage of variables in a project</li>
   <li>Manage CI/CD pipelines</li>
   <li>Start, stop, retry jobs in a pipeline and view job's log</li>
+  <li>Auto-start manual pipeline jobs. You can navigate to other projects freely; the plugin will notify you when execution starts and finishes</li>
   <li>See Git Log for branches/tags in a pipeline</li>
   <li>Undo/redo all user actions related to variables &amp; environments</li>
 </ul>
