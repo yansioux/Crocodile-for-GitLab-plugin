@@ -2,7 +2,7 @@
 
 # Crocodile for GitLab Changelog
 
-## [2.7] - 25 May 2026
+## [2.7] - 12 June 2026
 ### Added
  - An option to auto-start manual jobs inside the 'Jobs in a Pipeline' dialog
  - Great optimization for UI and background tasks
