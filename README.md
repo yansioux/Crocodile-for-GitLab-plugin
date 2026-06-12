@@ -1,65 +1,61 @@
 # Crocodile for GitLab (plugin)
 
-An exceptionally powerful, free manager of CI/CD variables, pipelines, jobs, and more for projects hosted on GitLab servers (GitLab maintained by your Organization (GitLab Self-Managed), GitLab.com, and GitLab Dedicated)
+<p><b>Crocodile for GitLab</b> is a powerful, free plugin designed to streamline how you manage GitLab CI/CD variables, pipelines, environments, and jobs directly from your JetBrains IDE. Fully compatible with GitLab Self-Managed, GitLab.com, and GitLab Dedicated.</p>
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/27303.svg)](https://plugins.jetbrains.com/plugin/27303-crocodile-for-gitlab/versions)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/27303.svg)](https://plugins.jetbrains.com/plugin/27303-crocodile-for-gitlab)
 
-<h3>Features</h3>
+<h3>Key Features</h3>
 <ul>
-  <li>Create and edit CI/CD variables</li>
-  <li>Create and delete environments</li>
-  <li>Copy and move variables between environments</li>
-  <li>Find usage of variables in a project</li>
-  <li>Manage CI/CD pipelines</li>
-  <li>Start, stop, retry jobs in a pipeline and view job's log</li>
-  <li>Auto-start manual pipeline jobs. You can navigate to other projects freely; the plugin will notify you when execution starts and finishes</li>
-  <li>See Git Log for branches/tags in a pipeline</li>
-  <li>Undo/redo all user actions related to variables &amp; environments</li>
+  <li><b>Comprehensive Variable Control:</b> Seamlessly create, edit, copy, or move CI/CD variables across environments.</li>
+  <li><b>Smart Variable Tracking:</b> Instantly locate where specific variables are used throughout your project.</li>
+  <li><b>Environment Management:</b> Effortlessly create, track, and delete deployment environments.</li>
+  <li><b>Pipeline & Job Control:</b> Run, stop, or retry jobs, view live job logs, and check the associated Git log for branches or tags.</li>
+  <li><b>Asynchronous Job Execution:</b> Trigger manual pipeline jobs and switch projects freely—the plugin notifies you the exact moment execution starts and finishes.</li>
+  <li><b>Fail-Safe History:</b> Undo or redo any user actions related to variables and environments with a single click.</li>
 </ul>
-<h3>What's more, you can:</h3>
+
+<h3>Advanced Variable Automation</h3>
 <ul>
-  <li><b>Save variables</b> in a private store of IDE!</li>
-  <li><b>Import variables</b> into other GitLab based projects!</li>
-  <li><b>Import variables</b> into environment from .env files!</li>
-  <li><b>Create tags</b> to trigger pipeline creation️</li>
+  <li><b>Secure Local Storage:</b> Save variables locally within your IDE's private configuration store.</li>
+  <li><b>Cross-Project Portability:</b> Import existing variables directly into other GitLab projects.</li>
+  <li><b>Flexible Imports & Triggers:</b> Populate environment configurations instantly from <code>.env</code> files, and create Git tags to trigger pipeline runs on demand.</li>
 </ul>
-<h3>And more awesome features!</h3>
-Export variables to:
+
+<h3>Export Capabilities</h3>
 <ul>
-  <li><b>.env files</b> for customizing project run configurations!</li>
-  <li><b>Markdown table</b> structure for inserting into project documentation!</li>
+  <li><b>Run Configurations:</b> Export variables to <code>.env</code> files for fast local debugging.</li>
+  <li><b>Documentation-Ready:</b> Export variables into structured Markdown tables to drop directly into your repository documentation.</li>
 </ul>
-<h3>Security</h3>
+
+<h3>Enterprise-Grade Security</h3>
 <ul>
-  <li>Access tokens, saved variables, and other sensitive user data do not transmitted to others</li>
-  <li>The plugin communicates only with the GitLab API</li>
-  <li>Sensitive data is securely stored in the IDE credential store on the local machine</li>
-  <li>Any sensitive data is not displayed on the screen until the variables containing that data are selected or in edit mode</li>
+  <li><b>Zero Data Leakage:</b> Your access tokens, saved variables, and sensitive data are never transmitted to third parties.</li>
+  <li><b>Direct API Communication:</b> The plugin communicates exclusively and securely with your configured GitLab API.</li>
+  <li><b>Secure Local Credentials:</b> Sensitive fields are stored locally using the native JetBrains IDE credential store.</li>
+  <li><b>On-Screen Obfuscation:</b> Sensitive data remains hidden on your screen until explicitly selected or placed into edit mode.</li>
 </ul>
-<h3>
-An essential solution for developers, DevOps guys and software engineers everywhere!
-</h3>
+
+<br/>
+<h3>An essential productivity booster for Developers, DevOps Engineers, and Platforms Teams everywhere!</h3>
+
+<p>Releases & Source: <a href="https://github.com/yansioux/Crocodile-for-GitLab-plugin">https://github.com/yansioux/Crocodile-for-GitLab-plugin</a></p>
+
 
 ## Installation
 
-- Using the IDE built-in plugin system:
+- **Via the In-IDE Marketplace (Recommended):**
 
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "Crocodile for GitLab"</kbd> >
-  <kbd>Install</kbd>
+  Navigate to <kbd>Settings</kbd> (or <kbd>Settings... ⌘,</kbd> on macOS) > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd>, search for **"Crocodile for GitLab"**, and click <kbd>Install</kbd>.
 
-- Using JetBrains Marketplace:
+- **Via JetBrains Marketplace Website:**
 
-  Go to [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/27303) and install it by clicking the <kbd>Install to ...</kbd> button in case your IDE is running.
+  Visit the [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID) page and click the <kbd>Install to...</kbd> button while your IDE is active.
 
-  You can also download the [latest release](https://plugins.jetbrains.com/plugin/27303/versions) from JetBrains Marketplace and install it manually using
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
+- **Via Manual Offline Installation:**
 
-- Manually:
+  If you need to install the plugin offline, download the latest release package from either the [JetBrains Marketplace Versions](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID/versions) page or the [GitHub Releases](https://github.com/yansioux/Crocodile-for-GitLab-plugin/releases) page.
 
-  Download the [latest release](https://github.com/yansioux/Crocodile-for-GitLab-plugin/tree/main/Releases/stable/2.3) and install it manually using
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
-
-
+  Then, import it inside your IDE via <kbd>Settings</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
 ![Crocodile for GitLab logo](https://github.com/yansioux/Crocodile-for-GitLab-plugin/blob/main/Misc/Logo/200x200/pluginIcon.svg?raw=true)
