@@ -1,0 +1,38 @@
+# END USER LICENSE AGREEMENT (EULA)
+
+**Last Updated:** June 12, 2026
+
+"GITLAB" is a trademark of GitLab Inc. registered in the United States and other countries and regions.
+
+## 1. DEFINITIONS
+* **"Plugin"** means the computer software extension, including but not limited to binaries, configuration files, and documentation, designed to extend the functionality of any compatible Integrated Development Environment (IDE).
+* **"Licensor"** or **"Author"** means Yan Pak (Email: YanSioux@gmail.com), who represents that he is the sole creator and copyright owner of the Plugin.
+* **"Licensee"** (also referred to as **"You"**) means any individual or Organization using the Plugin in accordance with this Agreement. 
+* **"Organization"** includes any corporation, company, partnership, association, or other entity that controls, is controlled by, or is under common control with You. For the purposes of this definition, "control" means (i) the power, directly or indirectly, to direct or manage such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares or beneficial ownership of such entity.
+* **"Use"** means downloading, installing, activating, running, or otherwise employing the Plugin.
+* **"Source Code"** means the underlying source code, source documentation, assets, and build configurations of the Plugin.
+
+## 2. LEGAL DISCLAIMER & AFFILIATION
+THIS PLUGIN IS A INDEPENDENT PRODUCT. IT IS NOT AFFILIATED WITH, ENDORSED BY, SPONSORED BY, OR APPROVED BY GITLAB INC.
+
+## 3. ACCEPTANCE OF TERMS
+BY CHECKING THE ACCEPTANCE BOX ON THE AGREEMENT PAGE, OR BY INSTALLING, DOWNLOADING, OR USING THE PLUGIN, YOU AGREE TO BE BOUND BY ALL THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT INSTALL OR USE THE PLUGIN.
+
+## 4. LICENSE GRANT & RESTRICTIONS
+The Author hereby grants You a non-exclusive, non-transferable, revocable license to Use the Plugin solely for your internal or personal workflows. All rights not expressly granted to You are reserved by the Author.
+
+**You strictly SHALL NOT:**
+* Modify, alter, adapt, or create derivative works of the Plugin.
+* Decompile, disassemble, reverse-engineer, or otherwise attempt to derive or extract the Source Code of the Plugin.
+* Distribute, sublicense, lease, rent, resell, rehost, or transfer the Plugin or its Source Code to any third party without explicit prior written consent from the Author.
+* Remove, obscure, or alter any copyright notices, trademarks, or proprietary rights legends embedded within the Plugin.
+* Misrepresent the authorship of the Plugin or claim ownership of the software.
+
+## 5. DISCLAIMER OF WARRANTY
+THE PLUGIN IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE PLUGIN OR THE USE OR OTHER DEALINGS IN THE PLUGIN.
+
+## 6. LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF DATA, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THIS PLUGIN, EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+---
+*End of End User License Agreement*
