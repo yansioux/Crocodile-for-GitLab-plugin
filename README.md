@@ -39,7 +39,7 @@
 <br/>
 <h3>An essential productivity booster for Developers, DevOps Engineers, and Platforms Teams everywhere!</h3>
 
-<p>Releases & Source: <a href="https://github.com/yansioux/Crocodile-for-GitLab-plugin">https://github.com/yansioux/Crocodile-for-GitLab-plugin</a></p>
+<p>Releases: <a href="https://github.com/yansioux/Crocodile-for-GitLab-plugin/releases">https://github.com/yansioux/Crocodile-for-GitLab-plugin/releases</a></p>
 
 
 ## Installation
