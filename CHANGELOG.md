@@ -2,11 +2,16 @@
 
 # Crocodile for GitLab Changelog
 
+## [2.7.1] - 13 June 2026
+### Added
+ - Collapsible log pane for 'Jobs in a Pipeline' dialog
+
 ## [2.7] - 12 June 2026
 ### Added
  - An option to auto-start manual jobs inside the 'Jobs in a Pipeline' dialog
  - Great optimization for UI and background tasks
  - Support for new JetBrains IDE versions
+ - Collapsible log pane for 'Jobs in a Pipeline' dialog
 
 ## [2.6] - 12 May 2026
 ### Added
