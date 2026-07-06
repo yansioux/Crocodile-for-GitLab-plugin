@@ -11,6 +11,8 @@
   <li><b>Smart Variable Tracking:</b> Instantly locate where specific variables are used throughout your project.</li>
   <li><b>Environment Management:</b> Effortlessly create, track, and delete deployment environments.</li>
   <li><b>Pipeline & Job Control:</b> Run, stop, or retry jobs, view live job logs, and check the associated Git log for branches or tags.</li>
+  <li><b>Pipeline Notes:</b> Read and write persistent notes directly on your GitLab pipelines.</li>
+  <li><b>Secure Collaboration:</b> Discuss pipeline tasks securely with other project participants right inside your IDE.</li>
   <li><b>Asynchronous Job Execution:</b> Trigger manual pipeline jobs and switch projects freely—the plugin notifies you the exact moment execution starts and finishes.</li>
   <li><b>Fail-Safe History:</b> Undo or redo any user actions related to variables and environments with a single click.</li>
 </ul>

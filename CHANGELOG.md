@@ -2,6 +2,16 @@
 
 # Crocodile for GitLab Changelog
 
+## [2.8] - 6 July 2026
+### Added
+- Added secure, encrypted pipeline notes. Content is visible only within the plugin to project participants
+
+### Changed
+- Polished the UI
+
+### Fixed
+- Fixed compatibility with GitLab remote URLs using HTTP
+
 ## [2.7.1] - 13 June 2026
 ### Added
  - Collapsible log pane for 'Jobs in a Pipeline' dialog
