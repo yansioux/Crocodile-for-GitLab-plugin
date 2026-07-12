@@ -5,17 +5,22 @@
 [![Version](https://img.shields.io/jetbrains/plugin/v/27303.svg)](https://plugins.jetbrains.com/plugin/27303-crocodile-for-gitlab/versions)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/27303.svg)](https://plugins.jetbrains.com/plugin/27303-crocodile-for-gitlab)
 
-<h3>Key Features</h3>
+<p>🚀 <b>Stop context-switching. Manage GitLab CI/CD directly inside your JetBrains IDE.</b></p>
+
+<p><b>Crocodile for GitLab</b> is a powerful, 100% free plugin built to eliminate the friction between your code and your DevOps workflow. Whether you use GitLab.com, Self-Managed, or GitLab Dedicated, Crocodile brings absolute control over variables, pipelines, environments, and logs right to your fingertips.</p>
+
+<h3>🐊 Why Crocodile?</h3>
 <ul>
-  <li><b>Comprehensive Variable Control:</b> Seamlessly create, edit, copy, or move CI/CD variables across environments.</li>
-  <li><b>Smart Variable Tracking:</b> Instantly locate where specific variables are used throughout your project.</li>
-  <li><b>Environment Management:</b> Effortlessly create, track, and delete deployment environments.</li>
-  <li><b>Pipeline & Job Control:</b> Run, stop, or retry jobs, view live job logs, and check the associated Git log for branches or tags.</li>
-  <li><b>Pipeline Notes:</b> Read and write persistent notes directly on your GitLab pipelines.</li>
-  <li><b>Secure Collaboration:</b> Discuss pipeline tasks securely with other project participants right inside your IDE.</li>
-  <li><b>Asynchronous Job Execution:</b> Trigger manual pipeline jobs and switch projects freely—the plugin notifies you the exact moment execution starts and finishes.</li>
-  <li><b>Fail-Safe History:</b> Undo or redo any user actions related to variables and environments with a single click.</li>
+  <li><b>Ultimate Variable Control:</b> Create, edit, copy, or migrate CI/CD variables across environments effortlessly.</li>
+  <li><b>Smart Variable Tracking:</b> Instantly scan and find exactly where your variables are used in the codebase.</li>
+  <li><b>Effortless Environments:</b> Create, monitor, and clean up deployment environments without leaving the IDE.</li>
+  <li><b>Live Pipeline & Job Control:</b> Run, stop, or retry jobs, stream live execution logs, and inspect associated Git history.</li>
+  <li><b>"Fire & Forget" Asynchronous Jobs:</b> Trigger manual jobs and keep working. Crocodile handles the execution background and alerts you the second it starts or finishes.</li>
+  <li><b>IDE-Native Collaboration:</b> Write persistent pipeline notes and discuss tasks securely with your team.</li>
+  <li><b>Fail-Safe History:</b> Made a mistake? Undo or redo any variable or environment change with a single click.</li>
 </ul>
+
+<p>⚡ <b>Supercharge your GitLab workflow. Install Crocodile today and keep your focus where it belongs—on your code.</b></p>
 
 <h3>Advanced Variable Automation</h3>
 <ul>

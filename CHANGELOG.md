@@ -2,6 +2,16 @@
 
 # Crocodile for GitLab Changelog
 
+## [2.8.1] - 12 July 2026
+### Fixed
+- Removed the white background from smart search fields.
+- Fixed environment scope application for the "Copy/Move variables" action when multiple items are selected.
+
+### Changed
+- Replaced mouse-hover automatic selection in the pipeline table with a mouse click.
+- Polished the user interface (UI).
+- Restored the original content pane for the "Delete variable" dialog.
+
 ## [2.8] - 7 July 2026
 ### Added
 - Added secure, encrypted pipeline notes. Content is visible only within the plugin to project participants
