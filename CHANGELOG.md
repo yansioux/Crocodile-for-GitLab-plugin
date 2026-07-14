@@ -2,6 +2,11 @@
 
 # Crocodile for GitLab Changelog
 
+## [2.8.2] - 14 July 2026
+### Fixed
+- Pipeline table update lag/freeze
+
+
 ## [2.8.1] - 12 July 2026
 ### Fixed
 - Removed the white background from smart search fields.
