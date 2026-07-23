@@ -2,6 +2,12 @@
 
 # Crocodile for GitLab Changelog
 
+## [2.8.3] - 23 July 2026
+### Fixed
+- Fixed an issue where GitLab host and project ID were undefined.
+- Fixed a bug that broke the scroll-to-beginning behavior in the pipelines table.
+
+
 ## [2.8.2] - 14 July 2026
 ### Fixed
 - Pipeline table update lag/freeze
