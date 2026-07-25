@@ -2,16 +2,22 @@
 
 # Crocodile for GitLab Changelog
 
+## [2.8.4] - 25 July 2026
+### Added
+- Loading label indicator for projects undergoing long indexing processes.
+- Review prompt popup asking users to rate the plugin.
+
+### Fixed
+- Extraction logic for parsing the GitLab host domain and repository project path values across different remote URL formats.
+
 ## [2.8.3] - 23 July 2026
 ### Fixed
 - Fixed an issue where GitLab host and project ID were undefined.
 - Fixed a bug that broke the scroll-to-beginning behavior in the pipelines table.
 
-
 ## [2.8.2] - 14 July 2026
 ### Fixed
 - Pipeline table update lag/freeze
-
 
 ## [2.8.1] - 12 July 2026
 ### Fixed
