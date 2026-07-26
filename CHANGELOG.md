@@ -2,6 +2,10 @@
 
 # Crocodile for GitLab Changelog
 
+## [2.9] - 26 July 2026
+### Added
+- Toolbar gear icon to open GitLab connection settings.
+
 ## [2.8.4] - 25 July 2026
 ### Added
 - Loading label indicator for projects undergoing long indexing processes.
