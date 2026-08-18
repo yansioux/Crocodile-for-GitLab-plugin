@@ -2,6 +2,12 @@
 
 # Crocodile for GitLab Changelog
 
+## [2.9.1] - 18 August 2026
+### Added
+- Pipeline notes now support clickable links.
+- The Status Pane now includes useful shortcut links.
+- Improved performance for pipeline notes
+
 ## [2.9] - 26 July 2026
 ### Added
 - Toolbar gear icon to open GitLab connection settings.
