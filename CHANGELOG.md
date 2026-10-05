@@ -2,6 +2,13 @@
 
 # Crocodile for GitLab Changelog
 
+## [2.10.0] - 05 October 2026
+### Added
+- Added settings to toggle search suggestions on or off.
+- Added settings to configure excluded search paths.
+- Improved the right-click context menu for pipeline components.
+- Minimized the Stage graphic layout to optimize screen space.
+
 ## [2.9.1] - 18 August 2026
 ### Added
 - Pipeline notes now support clickable links.
