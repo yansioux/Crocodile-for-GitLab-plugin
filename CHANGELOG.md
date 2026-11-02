@@ -2,6 +2,13 @@
 
 # Crocodile for GitLab Changelog
 
+## [2.11] - 01 November 2026
+### Added
+- Added French language support (localization).
+- Added dedicated Undo / Redo actions to the plugin toolbar.
+- Added ability to open the "Edit Variable" dialog via double-click.
+- Added a settings configuration option to toggle the double-click dialog.
+
 ## [2.10.0] - 05 October 2026
 ### Added
 - Added settings to toggle search suggestions on or off.
@@ -13,7 +20,7 @@
 ### Added
 - Pipeline notes now support clickable links.
 - The Status Pane now includes useful shortcut links.
-- Improved performance for pipeline notes
+- Improved performance for pipeline notes.
 
 ## [2.9] - 26 July 2026
 ### Added
